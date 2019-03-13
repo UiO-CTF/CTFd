@@ -150,3 +150,35 @@ select.form-control {
     -moz-border-radius: 0 !important;
     border-radius: 0 !important;
 }
+
+.tg-color-icon {
+    color: #117a8b;
+}
+
+.red-icon {
+    color: #f40404;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.bg-dark {
+    background-color: #f40404 !important;
+}
+
+.navbar-nav {
+    color: rgba(255, 255, 255, 0.91) !important;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.91) !important;
+}
+
+.navbar-dark  {
+    color: rgba(255, 255, 255, 0.91) !important;
+}
+
+a[href="/oauth"] {
+    display: none;
+}
